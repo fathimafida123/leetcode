@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/fathimafida123/leetcode/tree/master/0263-ugly-number) |
 | [1323-maximum-69-number](https://github.com/fathimafida123/leetcode/tree/master/1323-maximum-69-number) |
 ## Greedy
 |  |
