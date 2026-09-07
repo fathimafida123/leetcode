@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/fathimafida123/leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/fathimafida123/leetcode/tree/master/0263-ugly-number) |
 | [1323-maximum-69-number](https://github.com/fathimafida123/leetcode/tree/master/1323-maximum-69-number) |
 ## Greedy
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fathimafida123/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/fathimafida123/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/fathimafida123/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/fathimafida123/leetcode/tree/master/0162-find-peak-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fathimafida123/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
