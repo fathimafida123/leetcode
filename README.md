@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fathimafida123/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/fathimafida123/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/fathimafida123/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fathimafida123/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fathimafida123/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fathimafida123/leetcode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
