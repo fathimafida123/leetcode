@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/fathimafida123/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fathimafida123/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/fathimafida123/leetcode/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/fathimafida123/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/fathimafida123/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fathimafida123/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/fathimafida123/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/fathimafida123/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
