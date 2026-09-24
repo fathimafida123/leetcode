@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1678-goal-parser-interpretation](https://github.com/fathimafida123/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fathimafida123/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
