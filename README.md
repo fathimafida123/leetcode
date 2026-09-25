@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fathimafida123/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/fathimafida123/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/fathimafida123/leetcode/tree/master/0263-ugly-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/fathimafida123/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/fathimafida123/leetcode/tree/master/1323-maximum-69-number) |
 ## Greedy
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fathimafida123/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/fathimafida123/leetcode/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/fathimafida123/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/fathimafida123/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/fathimafida123/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fathimafida123/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
