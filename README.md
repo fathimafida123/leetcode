@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/fathimafida123/leetcode/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/fathimafida123/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fathimafida123/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/fathimafida123/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/fathimafida123/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fathimafida123/leetcode/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/fathimafida123/leetcode/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
