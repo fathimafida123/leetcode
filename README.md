@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/fathimafida123/leetcode/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/fathimafida123/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fathimafida123/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/fathimafida123/leetcode/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/fathimafida123/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/fathimafida123/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/fathimafida123/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/fathimafida123/leetcode/tree/master/0771-jewels-and-stones) |
+| [1436-destination-city](https://github.com/fathimafida123/leetcode/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/fathimafida123/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/fathimafida123/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/fathimafida123/leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/fathimafida123/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fathimafida123/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/fathimafida123/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/fathimafida123/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
