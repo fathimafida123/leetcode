@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/fathimafida123/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/fathimafida123/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/fathimafida123/leetcode/tree/master/0263-ugly-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/fathimafida123/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/fathimafida123/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/fathimafida123/leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/fathimafida123/leetcode/tree/master/1512-number-of-good-pairs) |
