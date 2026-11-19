@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/fathimafida123/leetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/fathimafida123/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/fathimafida123/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/fathimafida123/leetcode/tree/master/0771-jewels-and-stones) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fathimafida123/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/fathimafida123/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/fathimafida123/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/fathimafida123/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fathimafida123/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
